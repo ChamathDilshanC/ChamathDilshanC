@@ -10,7 +10,7 @@
 
 📫 How to reach me dilshanColonne123@gmail.com
 
-⚡ Fun fact I once debugged a piece of code in my dreams and woke up with the perfect solution! 👽
+⚡ Fun fact Dream big Becase of that you Will Learn How To Think Bigger 👽👽
 
 <img align="right" src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" alt="Developer GIF" width="250" />
 <h3 align="left">Connect with me:</h3>
