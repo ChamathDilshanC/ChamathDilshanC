@@ -28,4 +28,4 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamathdilshanc&show_icons=true&locale=en&layout=compact" alt="chamathdilshanc" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamathdilshanc&show_icons=true&locale=en" alt="chamathdilshanc" /></p>
-<img align="center" src="https://media.giphy.com/media/QbumCX9HFFDQA/giphy.gif" alt="Next Level GIF" width="250" />
+<img align="center" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Next Level GIF" width="250" />
