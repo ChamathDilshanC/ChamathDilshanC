@@ -10,7 +10,7 @@
 
 📫 How to reach me dilshanColonne123@gmail.com
 
-⚡ Fun fact Dream big Becase of that you Will Learn How To Think Bigger 👽
+⚡ Fun fact I once debugged a piece of code in my dreams and woke up with the perfect solution! 👽
 
 <img align="right" src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" alt="Developer GIF" width="250" />
 <h3 align="left">Connect with me:</h3>
@@ -28,4 +28,4 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamathdilshanc&show_icons=true&locale=en&layout=compact" alt="chamathdilshanc" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamathdilshanc&show_icons=true&locale=en" alt="chamathdilshanc" /></p>
-<img align="center" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Next Level GIF" width="250" />
+<img align="center" src="https://media.giphy.com/media/QbumCX9HFFDQA/giphy.gif" alt="Next Level GIF" width="250" />
