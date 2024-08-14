@@ -102,63 +102,73 @@
   </a>
 </p>
 
----
+### 📊 GitHub Stats
 
-### 🔥 My GitHub Stats
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamathdilshanc&&theme=tokyonight" alt="chamathdilshanc" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chamathdilshanc&show_icons=true&locale=en" alt="chamathdilshanc" style="animation: pulse 2s infinite;" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chamathdilshanc&show_icons=true&theme=tokyonight" alt="chamathdilshanc" />
-</p>
-
----
-
-### 🚀 Featured Projects
-<!-- Add links to your projects with descriptions and badges -->
-- [**Sun & Moon Resort**](https://github.com/chamathdilshanc/sun-and-moon-resort) - A comprehensive management system for resorts, with features such as booking, inventory management, and staff coordination. ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-- [**Connect 4 Game**](https://github.com/chamathdilshanc/connect-4-game) - An interactive Connect 4 game with an AI opponent. ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-### 🎯 Goals for 2024
-- Contribute to open-source projects in the Java community
-- Enhance my skills in DevOps and cloud technologies
-- Build a full-stack application using React and Node.js
-
----
-
-<p align="center">
-  <img align="center" src="https://media.giphy.com/media/QbumCX9HFFDQA/giphy.gif" alt="Next Level GIF" width="250" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamathdilshanc&" alt="chamathdilshanc" style="animation: pulse 2s infinite;" />
 </p>
 
 ---
 
-### 📈 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### 🔝 Top Contributed Repo
+<a href="https://github.com/ChamathDilshanC/Sun-MoonResort_Project">
+  <h4>Sun & Moon Resort Project</h4>
+</a>
 
 ---
 
-### 📝 Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Why Learning Java is a Great Start to a Career in Software Development](https://yourbloglink.com)
-- [The Benefits of Integrating Git into Your Development Workflow](https://yourbloglink.com)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 💡 Quote of the Day
-> "The only way to do great work is to love what you do." - Steve Jobs
-
----
-
-### 📫 Want to Collaborate?
-Feel free to reach out if you want to collaborate on projects or have any questions!
-
----
-
+### 🏆 GitHub Trophies
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamathdilshanc&layout=compact&theme=tokyonight" alt="chamathdilshanc" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=chamathdilshanc&margin-w=10&margin-h=10" alt="chamathdilshanc" style="animation: pulse 2s infinite;" />
+  </a>
 </p>
+
+---
+
+### 🔭 Ongoing Projects
+| Project Name | Description |
+|--------------|-------------|
+| [Sun & Moon Resort](https://github.com/ChamathDilshanC/sun-moon-resort) | Transaction management system for a resort |
+| [Flutter ToDo App](https://github.com/ChamathDilshanC/FlutterToDoApp) | A ToDo app built using Flutter |
+
+---
+
+### 🎨 Design Projects
+- UI/UX Designs with Figma
+- Responsive Web Designs
+
+---
+
+### 💡 Coding Practices
+- Adherence to clean code principles
+- Emphasis on modular design and reusability
+- Proficiency in test-driven development (TDD)
+
+---
+
+### 🤝 Collaborations
+- Open to collaboration on open-source projects
+- Keen interest in pair programming sessions
+
+---
+
+### 📜 Recent Achievements
+- Completed a course in Advanced Java Programming
+- Led a team in the development of a mobile app for local businesses
+
+---
+
+### ✍️ Publications & Talks
+- **"Harnessing Java for Web Development"** - TechTalk Conference, 2023
+- **"Mobile App Development: Trends and Challenges"** - Developer's Summit, 2024
+
+---
+
+### 📝 Upcoming Plans
+- Expanding skill set in AI and machine learning
+- Contributing to more open-source projects
