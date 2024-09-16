@@ -25,6 +25,7 @@
 - ⚡ Fun fact: **Dream big because of that you will learn how to think bigger 👽👽**
 
 <br><br>
+
 ## 🌐 Connect with Me
 
 <p align="left">
@@ -129,16 +130,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamathdilshanc&theme=radical" alt="chamathdilshanc" />
 </p>
 <br><br>
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chamathdilshanc&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="chamathdilshanc" />
 </p>
 <br><br>
+
 ## 🔝 Top Contributed Repo
 
 [![Sun & Moon Resort Project](https://github-readme-stats.vercel.app/api/pin/?username=ChamathDilshanC&repo=Sun-MoonResort_Project&theme=radical)](https://github.com/ChamathDilshanC/Sun-MoonResort_Project)
 <br><br>
+
 ## 🔭 Ongoing Projects
 
 | Project Name | Description |
@@ -146,37 +150,44 @@
 | [Sun & Moon Resort](https://github.com/ChamathDilshanC/sun-moon-resort) | Transaction management system for a resort |
 | [Flutter ToDo App](https://github.com/ChamathDilshanC/FlutterToDoApp) | A ToDo app built using Flutter |
 <br><br>
+
 ## 🎨 Design Projects
 
 - 🖌️ UI/UX Designs with Figma
 - 🖥️ Responsive Web Designs
 <br><br>
+
 ## 💡 Coding Practices
 
 - 🧹 Adherence to clean code principles
 - 🧩 Emphasis on modular design and reusability
 - 🧪 Proficiency in test-driven development (TDD)
 <br><br>
+
 ## 🤝 Collaborations
 
 - 🌟 Open to collaboration on open-source projects
 - 👥 Keen interest in pair programming sessions
 <br><br>
+
 ## 📜 Recent Achievements
 
 - 🏆 Completed a course in Advanced Java Programming
 - 🚀 Led a team in the development of a mobile app for local businesses
 <br><br>
+
 ## ✍️ Publications & Talks
 
 - 📢 **"Harnessing Java for Web Development"** - TechTalk Conference, 2023
 - 🎤 **"Mobile App Development: Trends and Challenges"** - Developer's Summit, 2024
 <br><br>
+
 ## 📝 Upcoming Plans
 
 - 🧠 Expanding skill set in AI and machine learning
 - 🌐 Contributing to more open-source projects
 <br><br>
+
 ---
 
 <p align="center">
