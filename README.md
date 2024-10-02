@@ -1,29 +1,36 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Chamath Dilshan
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+  Hi, I'm Chamath Dilshan
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h1>
+
+<div align="center">
+  <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" alt="MasterHead" width="100%">
+</div>
 
 <p align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" alt="MasterHead" width="100%">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=A+Passionate+Technology+Learning+Student;Undergraduate+Software+Engineer+at+IJSE;Always+learning+new+things&color=FF00FF%2C00FFFF%2CFF00FF" alt="Typing SVG" /></a>
 </p>
-
-<h3 align="center">A Passionate Technology Learning Student from Sri Lanka 🇱🇰</h3>
-<h4 align="center">Undergraduate Software Engineer at IJSE 🎓</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chamathdilshanc&label=Profile%20views&color=0e75b6&style=flat" alt="chamathdilshanc" />
 </p>
 
-<p align="center">
-  <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</p>
-<br><br>
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400">
+</div>
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
-- 🔭 I'm currently working on **Sun & Moon Resort**
-- 🌱 I'm currently learning **Java**
-- 💬 Ask me about **Java, Web Development, and Mobile Development**
-- 📫 How to reach me: **dilshanColonne123@gmail.com**
-- ⚡ Fun fact: **Dream big because of that you will learn how to think bigger 👽👽**
-
+```javascript
+const chamath = {
+  currentProject: "Sun & Moon Resort",
+  learning: "Java",
+  askMeAbout: ["Java", "Web Dev", "Mobile Dev"],
+  reachMe: "dilshanColonne123@gmail.com",
+  funFact: "Dream big because of that you will learn how to think bigger 👽👽"
+};
+```
 <br><br>
 
 ## 🌐 Connect with Me
