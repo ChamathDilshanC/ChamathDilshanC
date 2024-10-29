@@ -1,8 +1,9 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-  Hi, I'm Chamath Dilshan
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Airal+Code&weight=900&size=40&pause=1000&color=0be881&center=true&vCenter=true&width=1200&lines=Hi+I+Am+Chamath+Dilshan" alt="Typing SVG" />
+  </a>
+</p>
+
 
 <div align="center">
   <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" alt="MasterHead" width="100%">
