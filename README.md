@@ -7,10 +7,11 @@
 <div align="center">
   <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" alt="MasterHead" width="100%">
 </div>
+<br>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&center=true&vCenter=true&width=800&lines=A+Passionate+Technology+Learning+Student;Undergraduate+Software+Engineer+at+IJSE;Always+learning+new+things&color=FF00FF%2C00FFFF%2CFF00FF" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&pause=1000&color=34e7e4&center=true&vCenter=true&width=1200&lines=Hey+Felloo+!!!;Wish+You+A+Very+Good+Day;I+Am+a+Passionate+Technology+Learner;Undergraduate+Software+Engineer+at+IJSE;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
