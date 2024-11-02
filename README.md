@@ -1,206 +1,182 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Airal+Code&weight=900&size=28&pause=1000&color=0be881&center=true&vCenter=true&width=1200&lines=Hi+I+Am+Chamath+Dilshan+❤️" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:33ccff,100:00ff99&height=300&section=header&text=Chamath%20Dilshan&fontSize=90&animation=fadeIn&fontColor=ffffff&desc=Undrgraduate%20Software%20Engineer%20|%20Tech%20Enthusiast&descSize=20&descAlignY=65)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Designer;Always+Learning+New+Tech)](https://git.io/typing-svg)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=chamathdilshanc&style=for-the-badge&color=33ccff)](https://github.com/chamathdilshanc)
+[![Email](https://img.shields.io/badge/Email-dilshanColonne123%40gmail.com-ffffff?style=for-the-badge&logo=gmail)](mailto:dilshanColonne123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chamath-dilshan-6aa8022ab/)
+
+</div>
+
+## 🎯 Technical Arsenal
 
 <div align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" alt="MasterHead" width="100%">
-</div>
+
+<!-- Programming Languages -->
+<details open>
+<summary><b>🛠️ Programming Languages</b></summary>
 <br>
+<img src="https://skillicons.dev/icons?i=java,js,c,dart&theme=dark" />
+</details>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&pause=1000&color=34e7e4&center=true&vCenter=true&width=1200&lines=Hey+Felloo+!!!;Wish+You+A+Very+Good+Day;I+Am+a+Passionate+Technology+Learner;Undergraduate+Software+Engineer+at+IJSE;Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
-</p>
+<!-- Frontend Development -->
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,react,flutter,figma&theme=dark" />
+</details>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chamathdilshanc&label=Profile%20views&color=0e75b6&style=flat" alt="chamathdilshanc" />
-</p>
+<!-- Backend Development -->
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,hibernate&theme=dark" />
+</details>
 
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400">
+<!-- Database Technologies -->
+<details open>
+<summary><b>🗄️ Database Technologies</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase&theme=dark" />
+</details>
+
+<!-- DevOps & Cloud -->
+<details open>
+<summary><b>☁️ DevOps & Cloud</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=docker,aws,nginx,kubernetes&theme=dark" />
+</details>
+
+<!-- Tools & IDEs -->
+<details open>
+<summary><b>🔧 Tools & IDEs</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux&theme=dark" />
+</details>
+
 </div>
 
-<h2 align="center">🚀 About Me</h2>
+## 💻 Skill Proficiency
+
+<div align="center">
+
+| 🔥 Language & Tools | 💪 Proficiency |
+| --- | --- |
+| ![Java](https://custom-icon-badges.demolab.com/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white) | ![](https://geps.dev/progress/95?dangerColor=6366f1&warningColor=6366f1&successColor=6366f1) |
+| ![JavaScript](https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | ![](https://geps.dev/progress/85?dangerColor=6366f1&warningColor=6366f1&successColor=6366f1) |
+| ![React](https://custom-icon-badges.demolab.com/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black) | ![](https://geps.dev/progress/80?dangerColor=6366f1&warningColor=6366f1&successColor=6366f1) |
+| ![Flutter](https://custom-icon-badges.demolab.com/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white) | ![](https://geps.dev/progress/75?dangerColor=6366f1&warningColor=6366f1&successColor=6366f1) |
+| ![Node.js](https://custom-icon-badges.demolab.com/badge/Node.js-339933.svg?style=for-the-badge&logo=nodejs&logoColor=white) | ![](https://geps.dev/progress/70?dangerColor=6366f1&warningColor=6366f1&successColor=6366f1) |
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chamathdilshanc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chamathdilshanc&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400">
+
+<img src="https://github-profile-trophy.vercel.app/?username=chamathdilshanc&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="100%">
+
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![Sun & Moon Resort](https://github-readme-stats.vercel.app/api/pin/?username=ChamathDilshanC&repo=Sun-MoonResort_Project&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ChamathDilshanC/Sun-MoonResort_Project)
+
+[![Web Pos System](https://github-readme-stats.vercel.app/api/pin/?username=ChamathDilshanC&repo=Pos-System&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ChamathDilshanC/Pos-System)
+</div>
+
+## 🎯 Expertise Areas
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Skills))
+    Frontend
+      HTML/CSS
+      JavaScript
+      React
+      Flutter
+      UI/UX Design
+    Backend
+      Java
+      Node.js
+      Express
+      REST APIs
+    Database
+      MySQL
+      PostgreSQL
+      Firebase
+    DevOps
+      Docker
+      AWS
+      Git
+      Linux
+    Tools
+      VS Code
+      IntelliJ
+      Figma
+      Postman
+```
+
+</div>
+
+## 💫 Current Focus
 
 ```javascript
 const chamath = {
-  currentProject: "Sun & Moon Resort",
-  learning: "Java",
-  askMeAbout: ["Java", "Web Dev", "Mobile Dev"],
-  reachMe: "dilshanColonne123@gmail.com",
-  funFact: "Dream big because of that you will learn how to think bigger 👽👽"
+    currentProject: "Sun & Moon Resort 🏢",
+    learning: ["Advanced Java ☕", "Cloud Architecture ☁️", "AI/ML 🤖"],
+    interests: ["Clean Code 📝", "System Design 🎯", "UI/UX 🎨"],
+    goals2024: [
+        "Master Cloud Native Development",
+        "Contribute to Open Source",
+        "Build AI-Powered Applications"
+    ]
 };
 ```
-<br><br>
 
-## 🌐 Connect with Me
+## 📊 Weekly Development Breakdown
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/chamath-dilshan-6aa8022ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamath dilshan" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/chamath.colonne.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamath dilshan" height="30" width="40" /></a>
-  <a href="https://instagram.com/chamath_dilshan_c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chamath dilshan" height="30" width="40" /></a>
-</p>
-<br><br>
+<div align="center">
 
-## 🛠️ Languages and Tools
-<table>
-    <thead>
-        <tr>
-            <th>Frontend</th>
-            <th>Backend</th>
-            <th>Others</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-                </a>
-                <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-                </a>
-                <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-                </a>
-                <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-                </a>
-                <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-                </a>
-                <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-                </a>
-            </td>
-            <td>
-                <a href="https://www.java.com" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-                </a>
-                <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-                </a>
-                <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-                </a>
-                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-                </a>
-                <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-                </a>
-                <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-                </a>
-                <a href="https://nginx.org/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-                </a>
-            </td>
-            <td>
-                <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-                </a>
-                <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-                </a>
-                <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-                </a>
-                <a href="https://www.jira.com/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>
-                </a>
-                <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-                </a>
-                <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-                </a>
-                <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
-                </a>
-                <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-<br><br>
+```text
+Java          █████████████░░░░░░░░░   52.25%
+JavaScript    ████████░░░░░░░░░░░░░░   32.14%
+HTML/CSS      ██████░░░░░░░░░░░░░░░░   24.80%
+Flutter       █████░░░░░░░░░░░░░░░░░   20.45%
+Other         ███░░░░░░░░░░░░░░░░░░░   12.36%
+```
 
-## 📊 GitHub Stats
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chamathdilshanc&show_icons=true&theme=radical" alt="chamathdilshanc" />
-</p>
+## 🎯 Future Roadmap
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamathdilshanc&theme=radical" alt="chamathdilshanc" />
-</p>
-<br><br>
+<div align="center">
 
-## 🏆 GitHub Trophies
+| Timeline | Goal |
+|----------|------|
+| Q2 2024 | Launch Sun & Moon Resort Platform |
+| Q3 2024 | AWS Certification |
+| Q4 2024 | AI/ML Project Implementation |
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chamathdilshanc&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="chamathdilshanc" />
-</p>
-<br><br>
+</div>
 
-## 🔝 Top Contributed Repo
+## 🤝 Let's Connect
 
-[![Sun & Moon Resort Project](https://github-readme-stats.vercel.app/api/pin/?username=ChamathDilshanC&repo=Sun-MoonResort_Project&theme=radical)](https://github.com/ChamathDilshanC/Sun-MoonResort_Project)
-<br><br>
+<div align="center">
 
-## 🔭 Ongoing Projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamath-dilshan-6aa8022ab/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/chamath.colonne.9/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/chamath_dilshan_c/)
 
-| Project Name | Description |
-|--------------|-------------|
-| [Sun & Moon Resort](https://github.com/ChamathDilshanC/sun-moon-resort) | Transaction management system for a resort |
-| [Flutter ToDo App](https://github.com/ChamathDilshanC/FlutterToDoApp) | A ToDo app built using Flutter |
-<br><br>
+</div>
 
-## 🎨 Design Projects
-
-- 🖌️ UI/UX Designs with Figma
-- 🖥️ Responsive Web Designs
-<br><br>
-
-## 💡 Coding Practices
-
-- 🧹 Adherence to clean code principles
-- 🧩 Emphasis on modular design and reusability
-- 🧪 Proficiency in test-driven development (TDD)
-<br><br>
-
-## 🤝 Collaborations
-
-- 🌟 Open to collaboration on open-source projects
-- 👥 Keen interest in pair programming sessions
-<br><br>
-
-## 📜 Recent Achievements
-
-- 🏆 Completed a course in Advanced Java Programming
-- 🚀 Led a team in the development of a mobile app for local businesses
-<br><br>
-
-## ✍️ Publications & Talks
-
-- 📢 **"Harnessing Java for Web Development"** - TechTalk Conference, 2023
-- 🎤 **"Mobile App Development: Trends and Challenges"** - Developer's Summit, 2024
-<br><br>
-
-## 📝 Upcoming Plans
-
-- 🧠 Expanding skill set in AI and machine learning
-- 🌐 Contributing to more open-source projects
-<br><br>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-</p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:33ccff,100:00ff99&height=120&section=footer)
