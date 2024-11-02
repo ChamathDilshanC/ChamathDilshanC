@@ -180,7 +180,7 @@ tools:
 
 | Project | Stack | Status | Details |
 |:--------|:------|:-------|:--------|
-| **🏢 Sun & Moon Resort** | `Next.js` `Spring` `AWS` | `ACTIVE` | [View Project →](https://github.com/ChamathDilshanC/Sun-MoonResort_Project) |
+| **🏢 Sun & Moon Resort** | `Java` `Css` `HTML` | `ACTIVE` | [View Project →](https://github.com/ChamathDilshanC/Sun-MoonResort_Project) |
 | **🤖 AI Analytics Hub** | `React` `TensorFlow` `Python` | `IN DEV` | Coming Soon |
 | **📱 Mobile App Suite** | `Flutter` `Firebase` | `PLANNING` | In Progress |
 
