@@ -242,40 +242,7 @@ tools:
 
 #### Databases & Tools
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis&theme=dark&perline=4)](https://skillicons.dev)
-
 </div>
-
-</td>
-<td width="50%">
-
-### 📊 Expertise Matrix
-
-<div align="left">
-
-```shell
-# Cloud & DevOps Engineering ☁️
-[█████████████████████░░] 95%
-Expert in AWS, K8s, CI/CD
-
-# Full Stack Development 💻
-[████████████████████░░░] 90%
-MERN, Spring, Next.js
-
-# Mobile Development 📱
-[███████████████████░░░░] 85%
-Flutter, React Native
-
-# AI/ML Engineering 🤖
-[██████████████████░░░░░] 80%
-TensorFlow, PyTorch
-
-# UI/UX Design 🎨
-[█████████████████░░░░░░] 75%
-Figma, Material Design
-```
-
-</div>
-
 </td>
 </tr>
 </table>
