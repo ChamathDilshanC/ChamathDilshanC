@@ -204,7 +204,7 @@ tools:
 </td>
 <td width="50%">
 
-[![POS System](https://github-readme-stats.vercel.app/api/pin/?username=ChamathDilshanC&repo=Pos-System&theme=transparent&hide_border=true&bg_color=00000000&title_color=6D28D9&text_color=ffffff&icon_color=6D28D9)](https://github.com/ChamathDilshanC/Pos-System)
+[![POS System](https://github-readme-stats.vercel.app/api/pin/?username=ChamathDilshanC&repo=Pos-System&theme=transparent&hide_border=true&bg_color=00000000&title_color=6D28D9&text_color=ffffff&icon_color=6D28D9)](https://github.com/ChamathDilshanC/Assignment-11)
 
 **POS System** • `React` `Node.js` `MongoDB`
 - 💳 Modern point of sale solution
