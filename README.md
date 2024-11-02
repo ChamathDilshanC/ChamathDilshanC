@@ -78,9 +78,6 @@ const highlights = {
 </table>
 
 ### 🌟 Recent Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chamathdilshanc&custom_title=Contribution%20Graph&hide_border=true&theme=transparent&bg_color=00000000&title_color=6D28D9&color=6D28D9&line=4c1d95&point=6D28D9"/>
-
 <br>
 
 ### 📊 GitHub Stats
