@@ -36,6 +36,65 @@
   }
 }
 ```
+
+## GitHub Achievements 🏆
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=chamathdilshanc&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Followers,Commits,Issues,PullRequest,Repositories,Reviews)](https://github.com/chamathdilshanc)
+
+<br>
+
+<table>
+<tr>
+<td>
+
+### 🌟 Contributions
+```typescript
+const achievements = {
+    commits: "500+ Contributions",
+    repositories: "10+ Public Repos",
+    projects: "5+ Major Projects",
+    collaborations: "Active Contributor"
+}
+```
+
+</td>
+<td>
+
+### 🎯 Highlights
+```typescript
+const highlights = {
+    stars: "50+ Repository Stars",
+    forks: "20+ Project Forks",
+    impact: "100+ Pull Requests",
+    community: "Active in Open Source"
+}
+```
+
+</td>
+</tr>
+</table>
+
+### 🌟 Recent Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chamathdilshanc&custom_title=Contribution%20Graph&hide_border=true&theme=transparent&bg_color=00000000&title_color=6D28D9&color=6D28D9&line=4c1d95&point=6D28D9"/>
+
+<br>
+
+### 📊 GitHub Stats
+
+<img src="https://streak-stats.demolab.com?user=chamathdilshanc&hide_border=true&border_radius=0&theme=transparent&background=00000000&ring=6D28D9&fire=4c1d95&currStreakLabel=6D28D9&sideNums=6D28D9"/>
+
+<br>
+
+### 🎮 GitHub Contribution Calendar
+
+[![Chamath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chamathdilshanc&theme=github-compact&hide_border=true&bg_color=00000000&title_color=6D28D9&color=6D28D9&line=4c1d95)](https://github.com/chamathdilshanc)
+
+</div>
+
 <br><br>
 ## Tech Arsenal  ⚡
 
@@ -127,36 +186,6 @@ tools:
 | **🏢 Sun & Moon Resort** | `Next.js` `Spring` `AWS` | `ACTIVE` | [View Project →](https://github.com/ChamathDilshanC/Sun-MoonResort_Project) |
 | **🤖 AI Analytics Hub** | `React` `TensorFlow` `Python` | `IN DEV` | Coming Soon |
 | **📱 Mobile App Suite** | `Flutter` `Firebase` | `PLANNING` | In Progress |
-
-<br><br>
-
-## Development Focus 🎯
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#6D28D9', 'textColor': '#ffffff', 'lineColor': '#4c1d95', 'fontSize': '16px'}}}%%
-mindmap
-  root((2024 Roadmap))
-    Cloud Architecture 🚀
-      AWS Solutions Architect
-      Kubernetes Expert
-      Microservices Design
-    AI/ML Integration 🤖
-      TensorFlow & PyTorch
-      NLP & Computer Vision
-      MLOps & Deployment
-    Frontend Masters 💫
-      Next.js 14
-      React Native
-      Flutter 3.0
-    Backend Systems ⚡
-      Spring Boot 3
-      GraphQL APIs
-      System Architecture
-```
-
-</div>
 
 <br><br>
 
