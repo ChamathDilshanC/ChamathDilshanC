@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&height=350&text=Chamath%20Dilshan&fontSize=80&color=0:1e1b4b,50:4c1d95,100:0891b2&stroke=1e1b4b&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20×%20Tech%20Innovator&descSize=22&descAlignY=65)
+![Header](https://capsule-render.vercel.app/api?type=venom&height=350&text=Chamath%20Dilshan&fontSize=80&color=0:1e1b4b,50:4c1d95,100:0891b2&stroke=1e1b4b&animation=fadeIn&fontColor=ffffff&desc=Undergraduate%20Software%20Engineer%20×%20Tech%20Innovator&descSize=22&descAlignY=65)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6D28D9&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Building+the+digital+future+%F0%9F%9A%80;Full+Stack+%7C+Mobile+%7C+Cloud+%7C+AI%2FML;Always+in+Beta%2C+Always+Learning" alt="Typing SVG" /></a>
 
