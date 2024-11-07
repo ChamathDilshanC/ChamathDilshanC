@@ -186,37 +186,49 @@ tools:
 
 <br><br>
 
-## Featured Projects  🌟
-
-<div align="center">
-
+🚀 Featured Projects
 <table>
 <tr>
 <td width="50%">
-
-[![Sun & Moon Resort](https://github-readme-stats.vercel.app/api/pin/?username=ChamathDilshanC&repo=Sun-MoonResort_Project&theme=transparent&hide_border=true&bg_color=00000000&title_color=6D28D9&text_color=ffffff&icon_color=6D28D9)](https://github.com/ChamathDilshanC/Sun-MoonResort_Project)
-
-**Sun & Moon Resort** • `Next.js` `Spring Boot` `AWS`
-- 🏢 Full-stack resort management platform
-- 🌐 Cloud-native architecture
-- 📊 Real-time analytics dashboard
-
+<h3 align="center">Sun & Moon Resort Platform</h3>
+<div align="center">
+  <a href="https://github.com/ChamathDilshanC/Sun-MoonResort_Project" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" alt="Java"/>
+  </a>
+  <p align="center">
+    Comprehensive resort management system with booking management, user authentication, and admin dashboard
+  </p>
+  <p align="center">
+    <a href="https://github.com/ChamathDilshanC/Sun-MoonResort_Project" target="_blank">
+      <img src="https://img.shields.io/badge/View_Project-0891B2?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+</div>
 </td>
 <td width="50%">
-
-[![POS System](https://github-readme-stats.vercel.app/api/pin/?username=ChamathDilshanC&repo=Pos-System&theme=transparent&hide_border=true&bg_color=00000000&title_color=6D28D9&text_color=ffffff&icon_color=6D28D9)](https://github.com/ChamathDilshanC/Assignment-11)
-
-**POS System** • `React` `Node.js` `MongoDB`
-- 💳 Modern point of sale solution
-- 📱 Cross-platform compatibility
-- 📈 Advanced reporting system
-
+<h3 align="center">POS System</h3>
+<div align="center">
+  <a href="https://github.com/ChamathDilshanC/Pos-System" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" alt="Java"/>
+  </a>
+  <p align="center">
+    Modern point of sale solution with inventory management and real-time reporting
+  </p>
+  <p align="center">
+    <a href="https://github.com/ChamathDilshanC/Pos-System" target="_blank">
+      <img src="https://img.shields.io/badge/View_Project-0891B2?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+</div>
 </td>
 </tr>
 </table>
-
-</div>
-
 <br><br>
 
 ## Tech Expertise 💻
