@@ -178,27 +178,6 @@ graph TD
 ### Data & Analytics
 ![Data Stack](https://skillicons.dev/icons?i=mongodb,postgresql,redis,elasticsearch,graphql,prometheus&theme=dark&perline=6)
 
-```mermaid
-mindmap
-    root((Technology<br/>Ecosystem))
-        Cloud Native
-            Microservices
-            Containerization
-            Service Mesh
-        Enterprise
-            Spring Boot
-            Event Driven
-            Integration
-        Mobile & Web
-            React/Next.js
-            Flutter
-            PWA
-        Data & AI
-            Analytics
-            Machine Learning
-            Real-time Processing
-```
-
 </div>
 
 ## 📈 Engineering Metrics
@@ -237,4 +216,5 @@ const engineeringPhilosophy = {
 };
 ```
 
-![Footer](https://capsule-render.vercel.app/api?type=slice&height=200&text=&animation=fadeIn&color=gradient&customColorList=12,14,16,18,20,22,24,26,28,30&fontAlignY=35&rotate=180&reversal=false&fontSize=80&desc=%20&descAlignY=50)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=24&section=footer)
+
