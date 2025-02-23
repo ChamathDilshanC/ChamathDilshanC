@@ -3,294 +3,238 @@
 ![Header](https://capsule-render.vercel.app/api?type=venom&height=350&text=Chamath%20Dilshan&fontSize=80&color=0:1e1b4b,50:4c1d95,100:0891b2&stroke=1e1b4b&animation=fadeIn&fontColor=ffffff&desc=Undergraduate%20Software%20Engineer%20×%20Tech%20Innovator&descSize=22&descAlignY=65)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6D28D9&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Building+the+digital+future+%F0%9F%9A%80;Full+Stack+%7C+Mobile+%7C+Cloud+%7C+AI%2FML;Always+in+Beta%2C+Always+Learning" alt="Typing SVG" /></a>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=chamathdilshanc&color=6D28D9&style=flat-square)](https://github.com/chamathdilshanc)
-
 </div>
 
-<br><br>
 
-## My Overview  👨‍💻
-
-```json
-{
-  "name": "Chamath Dilshan",
-  "version": "2024.1.0",
-  "role": "Full Stack Engineer",
-  "location": "Sri Lanka",
-  "current_focus": [
-    "Cloud Native Applications",
-    "AI/ML Integration",
-    "Enterprise Solutions"
-  ],
-  "projects": {
-    "main": "Sun & Moon Resort Platform",
-    "status": "development",
-    "progress": 75,
-    "next_milestone": "Q2 2024"
-  },
-  "availability": {
-    "collaborations": true,
-    "open_source": true,
-    "contact": "dilshanColonne123@gmail.com"
-  }
-}
-```
-
-## GitHub Achievements 🏆
 
 <div align="center">
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=chamathdilshanc&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Followers,Commits,Issues,PullRequest,Repositories,Reviews)](https://github.com/chamathdilshanc)
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Urbanist&weight=700&size=30&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=140&lines=FULL+STACK+ENGINEER+%7C+TECH+INNOVATOR+%7C+SOLUTION+ARCHITECT;Crafting+Elegant+Solutions+for+Complex+Engineering+Challenges;Bridging+Innovation+and+Enterprise+Excellence" alt="Typing SVG" /></a>
+
+[![Years Badge](https://badges.pufler.dev/years/chamathdilshanc?style=for-the-badge&color=6366F1&logo=github&logoColor=white&labelColor=1F2937)](https://github.com/chamathdilshanc)
+[![Repos Badge](https://badges.pufler.dev/repos/chamathdilshanc?style=for-the-badge&color=6366F1&logo=github&logoColor=white&labelColor=1F2937)](https://github.com/chamathdilshanc)
+[![Profile Views](https://komarev.com/ghpvc/?username=chamathdilshanc&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/chamathdilshanc)
+
+</div>
 
 <br>
 
-<table>
-<tr>
-<td>
+## `$ whoami`
 
-### 🌟 Contributions
 ```typescript
-const achievements = {
-    commits: "500+ Contributions",
-    repositories: "10+ Public Repos",
-    projects: "5+ Major Projects",
-    collaborations: "Active Contributor"
+interface TechInnovator {
+    name: string;
+    role: string;
+    location: string;
+    worksWith: string[];
+    expertise: {
+        frontend: string[];
+        backend: string[];
+        devops: string[];
+        ai_ml: string[];
+    };
+    focuses: string[];
 }
-```
 
-</td>
-<td>
-
-### 🎯 Highlights
-```typescript
-const highlights = {
-    stars: "50+ Repository Stars",
-    forks: "20+ Project Forks",
-    impact: "100+ Pull Requests",
-    community: "Active in Open Source"
-}
-```
-
-</td>
-</tr>
-</table>
-
-### 🌟 Recent Activity
-<br>
-
-### 📊 GitHub Stats
-
-<img src="https://streak-stats.demolab.com?user=chamathdilshanc&hide_border=true&border_radius=0&theme=transparent&background=00000000&ring=6D28D9&fire=4c1d95&currStreakLabel=6D28D9&sideNums=6D28D9"/>
-
-<br>
-
-### 🎮 GitHub Contribution Calendar
-
-[![Chamath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chamathdilshanc&theme=github-compact&hide_border=true&bg_color=00000000&title_color=6D28D9&color=6D28D9&line=4c1d95)](https://github.com/chamathdilshanc)
-
-</div>
-
-<br><br>
-## Tech Arsenal  ⚡
-
-<table>
-<tr>
-<td width="50%">
-
-### Core Stack 🛠️
-```yaml
-languages:
-  primary:
-    - JavaScript/TypeScript
-    - Java
-    - Dart
-    - C
-  
-frontend:
-  frameworks:
-    - React/Next.js
-    - Flutter
-    - HTML5/CSS3
-  design:
-    - Figma
-    - TailwindCSS
-    
-backend:
-  frameworks:
-    - Spring Boot
-    - Node.js/Express
-    - Hibernate
-  api:
-    - REST
-    - GraphQL
-```
-
-</td>
-<td width="50%">
-
-### Infrastructure ⚡
-```yaml
-cloud:
-  providers:
-    - AWS
-    - Firebase
-  containers:
-    - Docker
-    - Kubernetes
-    
-databases:
-  sql:
-    - PostgreSQL
-    - MySQL
-  nosql:
-    - MongoDB
-    - Firebase
-    
-tools:
-  ide:
-    - VS Code
-    - IntelliJ IDEA
-  version_control:
-    - Git/GitHub
-  ci_cd:
-    - GitHub Actions
-```
-
-</td>
-</tr>
-</table>
-
-<br><br>
-
-## Progress 📈
-
-<div align="center">
-
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=chamathdilshanc&hide_border=true&show_icons=true&theme=transparent&bg_color=00000000&title_color=6D28D9&text_color=ffffff&icon_color=6D28D9&ring_color=6D28D9"/>
-
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=chamathdilshanc&theme=transparent&hide_border=true&background=00000000&ring=6D28D9&fire=6D28D9&currStreakLabel=6D28D9&sideNums=ffffff&sideLabels=ffffff"/>
-
-</div>
-
-<br><br>
-
-## Project Matrix  📋
-
-| Project | Stack | Status | Details |
-|:--------|:------|:-------|:--------|
-| **🏢 Sun & Moon Resort** | `Java` `Css` `HTML` | `ACTIVE` | [View Project →](https://github.com/ChamathDilshanC/Sun-MoonResort_Project) |
-| **🤖 AI Analytics Hub** | `React` `TensorFlow` `Python` | `IN DEV` | Coming Soon |
-| **📱 Mobile App Suite** | `Flutter` `Firebase` | `PLANNING` | In Progress |
-
-<br><br>
-
-🚀 Featured Projects
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Sun & Moon Resort Platform</h3>
-<div align="center">
-  <a href="https://github.com/ChamathDilshanC/Sun-MoonResort_Project" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" alt="Java"/>
-  </a>
-  <p align="center">
-    Comprehensive resort management system with booking management, user authentication, and admin dashboard
-  </p>
-  <p align="center">
-    <a href="https://github.com/ChamathDilshanC/Sun-MoonResort_Project" target="_blank">
-      <img src="https://img.shields.io/badge/View_Project-0891B2?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">POS System</h3>
-<div align="center">
-  <a href="https://github.com/ChamathDilshanC/Pos-System" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" alt="Java"/>
-  </a>
-  <p align="center">
-    Modern point of sale solution with inventory management and real-time reporting
-  </p>
-  <p align="center">
-    <a href="https://github.com/ChamathDilshanC/Pos-System" target="_blank">
-      <img src="https://img.shields.io/badge/View_Project-0891B2?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </p>
-</div>
-</td>
-</tr>
-</table>
-<br><br>
-
-## Tech Expertise 💻
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Tech Stack Mastery
-
-<div align="center">
-
-#### Languages & Core
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,dart,c&theme=dark&perline=5)](https://skillicons.dev)
-
-#### Frameworks & Tools
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,spring,nodejs&theme=dark&perline=5)](https://skillicons.dev)
-
-#### Cloud & DevOps
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,firebase&theme=dark&perline=4)](https://skillicons.dev)
-
-#### Databases & Tools
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis&theme=dark&perline=4)](https://skillicons.dev)
-</div>
-</td>
-</tr>
-</table>
-
-<br><br>
-
-### 📈 Code Analytics
-
-<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamathdilshanc&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=6D28D9&text_color=ffffff&icon_color=6D28D9&hide=html,css" alt="Top Languages" />
-
-</div>
-
-<br><br>
-
-## Let's Connect  🤝
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamath-dilshan-6aa8022ab/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/chamath.colonne.9/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chamath_dilshan_c/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilshanColonne123@gmail.com)
-
-```typescript
-// Let's build something amazing together! 🚀
-const contact = {
+const chamathDilshan: TechInnovator = {
     name: "Chamath Dilshan",
-    role: "Full Stack Engineer",
-    location: "Sri Lanka 🌴",
-    email: "dilshanColonne123@gmail.com",
-    availability: "Open for exciting opportunities",
-    interests: ["Cloud Native", "AI/ML", "Mobile Apps", "Innovation"],
-    message: "Always happy to connect and collaborate!"
+    role: "Full Stack Engineer & Solution Architect",
+    location: "Sri Lanka 🌏",
+    worksWith: ["Enterprise Solutions", "Cloud Architecture", "AI Integration"],
+    expertise: {
+        frontend: ["React", "Next.js", "Flutter", "TailwindCSS"],
+        backend: ["Spring Boot", "Node.js", "Express", "GraphQL"],
+        devops: ["AWS", "Docker", "Kubernetes", "CI/CD"],
+        ai_ml: ["TensorFlow", "PyTorch", "Data Analytics"]
+    },
+    focuses: [
+        "Scalable Cloud Architecture",
+        "Enterprise Software Solutions",
+        "AI/ML Integration",
+        "Performance Optimization"
+    ]
 };
 ```
 
+<div align="center">
+
+## 🏆 Engineering Excellence
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chamathdilshanc&theme=algolia&column=7&no-frame=true&no-bg=true&margin-w=15)](https://github.com/chamathdilshanc)
+
+### Performance Metrics
+
+<table>
+<tr>
+<td>
+
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'pie1': '#6366F1', 'pie2': '#4F46E5', 'pie3': '#4338CA', 'pie4': '#3730A3' }}}%%
+pie showData
+    title Contribution Distribution
+    "Frontend" : 35
+    "Backend" : 30
+    "DevOps" : 20
+    "AI/ML" : 15
+```
+
+</td>
+<td>
+
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'pie1': '#6366F1', 'pie2': '#4F46E5', 'pie3': '#4338CA', 'pie4': '#3730A3' }}}%%
+pie showData
+    title Tech Stack Focus
+    "Cloud Native" : 40
+    "Enterprise" : 30
+    "Mobile" : 20
+    "AI/ML" : 10
+```
+
+</td>
+</tr>
+</table>
+
+### Development Analytics
+
+|  |  |
+|---|---|
+| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chamathdilshanc&theme=transparent) | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chamathdilshanc&theme=transparent&utcOffset=8) |
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chamathdilshanc&custom_title=Engineering%20Contribution%20Graph&hide_border=true&bg_color=00000000&color=6366F1&line=4F46E5&point=6366F1&area=true&area_color=6366F1)](https://github.com/chamathdilshanc)
+
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=24&section=footer)
+## 🎯 Signature Projects
+
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">Sun & Moon Resort Enterprise Platform</h3>
+
+<div align="center">
+
+![Project Stack](https://skillicons.dev/icons?i=java,spring,mysql,docker&theme=dark)
+
+[View Project →](https://github.com/ChamathDilshanC/Sun-MoonResort_Project)
+
+```mermaid
+graph TD
+    A[Microservices Architecture] --> B[Spring Cloud Gateway]
+    B --> C[Service Mesh]
+    C --> D[Containerized Services]
+    D --> E[Database Cluster]
+    style A fill:#6366F1,stroke:#ffffff,stroke-width:2px
+    style B fill:#4F46E5,stroke:#ffffff,stroke-width:2px
+    style C fill:#4338CA,stroke:#ffffff,stroke-width:2px
+    style D fill:#3730A3,stroke:#ffffff,stroke-width:2px
+    style E fill:#312E81,stroke:#ffffff,stroke-width:2px
+```
+
+</div>
+</td>
+<td width="50%">
+
+<h3 align="center">Next-Gen POS System</h3>
+
+<div align="center">
+
+![Project Stack](https://skillicons.dev/icons?i=react,nodejs,mongodb,kubernetes&theme=dark)
+
+[View Project →](https://github.com/ChamathDilshanC/Pos-System)
+
+```mermaid
+graph TD
+    A[React Frontend] --> B[API Gateway]
+    B --> C[Service Layer]
+    C --> D[Data Services]
+    D --> E[Distributed Cache]
+    style A fill:#6366F1,stroke:#ffffff,stroke-width:2px
+    style B fill:#4F46E5,stroke:#ffffff,stroke-width:2px
+    style C fill:#4338CA,stroke:#ffffff,stroke-width:2px
+    style D fill:#3730A3,stroke:#ffffff,stroke-width:2px
+    style E fill:#312E81,stroke:#ffffff,stroke-width:2px
+```
+
+</div>
+</td>
+</tr>
+</table>
+
+## 🛠️ Engineering Arsenal
+
+<div align="center">
+
+### Core Expertise
+![Core Stack](https://skillicons.dev/icons?i=java,spring,nodejs,react,nextjs,flutter&theme=dark&perline=6)
+
+### Cloud & DevOps
+![DevOps Stack](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions&theme=dark&perline=6)
+
+### Data & Analytics
+![Data Stack](https://skillicons.dev/icons?i=mongodb,postgresql,redis,elasticsearch,graphql,prometheus&theme=dark&perline=6)
+
+```mermaid
+mindmap
+    root((Technology<br/>Ecosystem))
+        Cloud Native
+            Microservices
+            Containerization
+            Service Mesh
+        Enterprise
+            Spring Boot
+            Event Driven
+            Integration
+        Mobile & Web
+            React/Next.js
+            Flutter
+            PWA
+        Data & AI
+            Analytics
+            Machine Learning
+            Real-time Processing
+```
+
+</div>
+
+## 📈 Engineering Metrics
+
+<div align="center">
+
+| Contribution Analytics | Technology Distribution |
+|-------------------|----------------------|
+| ![Contribution Analytics](https://github-readme-stats.vercel.app/api?username=chamathdilshanc&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=ffffff&icon_color=6366F1&hide=contribs&rank_icon=github) | ![Technology Distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=chamathdilshanc&layout=compact&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=ffffff) |
+
+</div>
+
+## 🤝 Professional Network
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamath-dilshan-6aa8022ab/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chamathdilshan.dev)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilshanColonne123@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chamathdilshanc)
+
+</div>
+
+```typescript
+// Innovation through collaboration
+const engineeringPhilosophy = {
+    approach: "First Principles Thinking",
+    methodology: "Agile & DevOps Practices",
+    focus: [
+        "Scalable Architecture",
+        "Clean Code Principles",
+        "Performance Optimization",
+        "Security Best Practices"
+    ],
+    mission: "Delivering exceptional software solutions that drive business value"
+};
+```
+
+![Footer](https://capsule-render.vercel.app/api?type=slice&height=200&text=&animation=fadeIn&color=gradient&customColorList=12,14,16,18,20,22,24,26,28,30&fontAlignY=35&rotate=180&reversal=false&fontSize=80&desc=%20&descAlignY=50)
