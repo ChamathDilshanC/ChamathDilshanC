@@ -12,7 +12,7 @@
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Urbanist&weight=700&size=30&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=140&lines=FULL+STACK+ENGINEER+%7C+TECH+INNOVATOR+%7C+SOLUTION+ARCHITECT;Crafting+Elegant+Solutions+for+Complex+Engineering+Challenges;Bridging+Innovation+and+Enterprise+Excellence" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Urbanist&weight=700&size=30&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=140&lines=UNDERGRADUATE+FULL+STACK+ENGINEER+%7C+TECH+INNOVATOR+%7C+SOLUTION+ARCHITECT;Crafting+Elegant+Solutions+for+Complex+Engineering+Challenges;Bridging+Innovation+and+Enterprise+Excellence" alt="Typing SVG" /></a>
 
 [![Years Badge](https://badges.pufler.dev/years/chamathdilshanc?style=for-the-badge&color=6366F1&logo=github&logoColor=white&labelColor=1F2937)](https://github.com/chamathdilshanc)
 [![Repos Badge](https://badges.pufler.dev/repos/chamathdilshanc?style=for-the-badge&color=6366F1&logo=github&logoColor=white&labelColor=1F2937)](https://github.com/chamathdilshanc)
