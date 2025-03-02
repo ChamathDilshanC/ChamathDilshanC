@@ -1,29 +1,37 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&height=350&text=Chamath%20Dilshan&fontSize=80&color=0:1e1b4b,50:4c1d95,100:0891b2&stroke=1e1b4b&animation=fadeIn&fontColor=ffffff&desc=Undergraduate%20Software%20Engineer%20×%20Tech%20Innovator&descSize=22&descAlignY=65)
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6D28D9&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Building+the+digital+future+%F0%9F%9A%80;Full+Stack+%7C+Mobile+%7C+Cloud+%7C+AI%2FML;Always+in+Beta%2C+Always+Learning" alt="Typing SVG" /></a>
-</div>
-
-
-
 <div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=venom&height=350&text=Chamath%20Dilshan&fontSize=80&color=0:1e1b4b,50:4c1d95,100:0891b2&stroke=1e1b4b&animation=fadeIn&fontColor=ffffff&desc=Undergraduate%20Software%20Engineer%20×%20Tech%20Innovator&descSize=22&descAlignY=65)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=500&color=6D28D9&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Building+the+digital+future+%F0%9F%9A%80;Full+Stack+%7C+Mobile+%7C+Cloud+%7C+AI%2FML;Always+in+Beta%2C+Always+Learning" alt="Typing SVG" /></a>
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Urbanist&weight=700&size=30&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=140&lines=UNDERGRADUATE+FULL+STACK+ENGINEER+%7C+TECH+INNOVATOR+%7C+SOLUTION+ARCHITECT;Crafting+Elegant+Solutions+for+Complex+Engineering+Challenges;Bridging+Innovation+and+Enterprise+Excellence" alt="Typing SVG" /></a>
+<!-- Animated view counter and badges with consistent styling -->
+<p align="center">
+  <a href="https://github.com/chamathdilshanc">
+    <img src="https://komarev.com/ghpvc/?username=chamathdilshanc&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/chamathdilshanc">
+    <img src="https://img.shields.io/github/followers/chamathdilshanc?style=for-the-badge&color=6366F1&logo=github&logoColor=white&labelColor=0F172A" alt="Followers" />
+  </a>
+  <a href="https://github.com/chamathdilshanc?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/chamathdilshanc?style=for-the-badge&color=6366F1&logo=github&logoColor=white&labelColor=0F172A" alt="Repos" />
+  </a>
+</p>
 
-[![Years Badge](https://badges.pufler.dev/years/chamathdilshanc?style=for-the-badge&color=6366F1&logo=github&logoColor=white&labelColor=1F2937)](https://github.com/chamathdilshanc)
-[![Repos Badge](https://badges.pufler.dev/repos/chamathdilshanc?style=for-the-badge&color=6366F1&logo=github&logoColor=white&labelColor=1F2937)](https://github.com/chamathdilshanc)
-[![Profile Views](https://komarev.com/ghpvc/?username=chamathdilshanc&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/chamathdilshanc)
-
+<!-- Animated glowing divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </div>
 
-<br>
+</div>
+<br><br>
 
-## `$ whoami`
-
+## `$ whoami` <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="30px">
+<div align="start">
+    
 ```typescript
 interface TechInnovator {
     name: string;
@@ -58,55 +66,43 @@ const chamathDilshan: TechInnovator = {
     ]
 };
 ```
+</div>
+<br><br>
 
 <div align="center">
+<br><br>
 
 ## 🏆 Engineering Excellence
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chamathdilshanc&theme=algolia&column=7&no-frame=true&no-bg=true&margin-w=15)](https://github.com/chamathdilshanc)
+<!-- Animated trophy display with clean layout -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chamathdilshanc&theme=discord&column=7&no-frame=true&no-bg=true&margin-w=15" width="100%" />
+</p>
 
-### Performance Metrics
+<!-- Animated gradient cards -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="100%" height="8px" />
+</div>
+<br><br>
 
-<table>
-<tr>
-<td>
+## Development Analytics
 
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'pie1': '#6366F1', 'pie2': '#4F46E5', 'pie3': '#4338CA', 'pie4': '#3730A3' }}}%%
-pie showData
-    title Contribution Distribution
-    "Frontend" : 35
-    "Backend" : 30
-    "DevOps" : 20
-    "AI/ML" : 15
-```
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chamathdilshanc&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chamathdilshanc&theme=tokyonight&utcOffset=8" />
+</div>
 
-</td>
-<td>
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'pie1': '#6366F1', 'pie2': '#4F46E5', 'pie3': '#4338CA', 'pie4': '#3730A3' }}}%%
-pie showData
-    title Tech Stack Focus
-    "Cloud Native" : 40
-    "Enterprise" : 30
-    "Mobile" : 20
-    "AI/ML" : 10
-```
-
-</td>
-</tr>
-</table>
-
-### Development Analytics
-
-|  |  |
-|---|---|
-| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chamathdilshanc&theme=transparent) | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chamathdilshanc&theme=transparent&utcOffset=8) |
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chamathdilshanc&custom_title=Engineering%20Contribution%20Graph&hide_border=true&bg_color=00000000&color=6366F1&line=4F46E5&point=6366F1&area=true&area_color=6366F1)](https://github.com/chamathdilshanc)
+<!-- Animated contribution graph with glowing effect -->
+<a href="https://github.com/chamathdilshanc">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chamathdilshanc&custom_title=Engineering%20Contribution%20Timeline&hide_border=true&bg_color=0D1117&color=6366F1&line=4F46E5&point=6366F1&area=true&area_color=6366F1" width="100%" />
+</a>
 
 </div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</div>
+<br><br>
 
 ## 🎯 Signature Projects
 
@@ -117,6 +113,8 @@ pie showData
 <h3 align="center">Sun & Moon Resort Enterprise Platform</h3>
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-8b79af0f8196.gif" width="60" />
 
 ![Project Stack](https://skillicons.dev/icons?i=java,spring,mysql,docker&theme=dark)
 
@@ -143,6 +141,8 @@ graph TD
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="60" />
+
 ![Project Stack](https://skillicons.dev/icons?i=react,nodejs,mongodb,kubernetes&theme=dark)
 
 [View Project →](https://github.com/ChamathDilshanC/Pos-System)
@@ -165,39 +165,81 @@ graph TD
 </tr>
 </table>
 
-## 🛠️ Engineering Arsenal
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</div>
+<br><br>
+
+## 🛠️ Engineering Arsenal <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30px">
+
+## TECH STACK
 
 <div align="center">
 
-### Core Expertise
-![Core Stack](https://skillicons.dev/icons?i=java,spring,nodejs,react,nextjs,flutter&theme=dark&perline=6)
+### Languages & Frameworks
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### Cloud & DevOps
-![DevOps Stack](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions&theme=dark&perline=6)
+### Frontend
+![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### DevOps & Cloud
+![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Data & Analytics
-![Data Stack](https://skillicons.dev/icons?i=mongodb,postgresql,redis,elasticsearch,graphql,prometheus&theme=dark&perline=6)
+![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 </div>
 
-## 📈 Engineering Metrics
+---
+<br><br>
+## 🤝 Professional Network <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30px">
 
 <div align="center">
 
-| Contribution Analytics | Technology Distribution |
-|-------------------|----------------------|
-| ![Contribution Analytics](https://github-readme-stats.vercel.app/api?username=chamathdilshanc&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=ffffff&icon_color=6366F1&hide=contribs&rank_icon=github) | ![Technology Distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=chamathdilshanc&layout=compact&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=ffffff) |
+<a href="https://www.linkedin.com/in/chamath-dilshan-6aa8022ab/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
+</a>
+<a href="https://www.chamathdilshanc.com/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D1117" alt="Portfolio" />
+</a>
+<a href="mailto:dilshanColonne123@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
+</a>
+<a href="https://github.com/chamathdilshanc">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
+</a>
 
-</div>
-
-## 🤝 Professional Network
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamath-dilshan-6aa8022ab/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.chamathdilshanc.com/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilshanColonne123@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chamathdilshanc)
+<!-- Animated social media icons -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/chamath-dilshan-6aa8022ab/">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" />
+  </a>
+  <a href="mailto:dilshanColonne123@gmail.com">
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50" />
+  </a>
+  <a href="https://github.com/chamathdilshanc">
+    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50" />
+  </a>
+</p>
 
 </div>
 
@@ -216,5 +258,5 @@ const engineeringPhilosophy = {
 };
 ```
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=24&section=footer)
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=24&section=footer)
