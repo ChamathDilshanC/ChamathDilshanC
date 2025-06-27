@@ -1,284 +1,163 @@
 <div align="center">
+  
+# Hi there, I'm Chamath Dilshan 👋
 
-![Header](https://capsule-render.vercel.app/api?type=venom&height=400&text=Chamath%20Dilshan&fontSize=85&color=0:0f0f23,25:1a1a2e,50:16213e,75:0f3460,100:1e1b4b&stroke=00d9ff&strokeWidth=2&animation=fadeIn&fontColor=00ffff&desc=Mathematics%20×%20Software%20Engineering%20×%20Innovation&descSize=24&descAlignY=68)
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=∫+Mathematical+Software+Engineer+dx;∑+Building+Algorithms+That+Matter;π+×+Innovation+×+Excellence;∞+Possibilities+Through+Code" alt="Typing SVG" />
-</div>
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Chamath%20Dilshan&fontSize=90&color=0:667eea,100:764ba2&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20|%20Full-Stack%20Developer&descAlignY=65&descAlign=50)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Mathematical%20Computing-Expert-00d9ff?style=for-the-badge&logo=wolfram&logoColor=white&labelColor=0f0f23" />
-  <img src="https://img.shields.io/badge/Algorithm%20Design-Specialist-ff006e?style=for-the-badge&logo=algorithm&logoColor=white&labelColor=0f0f23" />
-  <img src="https://img.shields.io/badge/Enterprise%20Solutions-Architect-8338ec?style=for-the-badge&logo=blueprint&logoColor=white&labelColor=0f0f23" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-00f5ff?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0f0f23&animation=pulse" />
-</p>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=667eea&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Software+Engineer+💻;Building+Scalable+Web+Applications+🚀;Clean+Code+%26+System+Design+Expert+⚡;Always+Learning+New+Technologies+📚)](https://git.io/typing-svg)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" />
 </div>
 
 </div>
 
-## 🧮 Mathematical Engineering Excellence
-
-<table>
-<tr>
-<td width="55%">
-
-### ∫ Computational Mathematics Pioneer
-
-Bridging the gap between **pure mathematics** and **practical software solutions**, I specialize in developing mathematically-driven applications that solve complex real-world problems. My approach combines rigorous mathematical theory with cutting-edge software engineering practices.
-
-**Mathematical Domains:**
-- 📊 **Statistical Modeling**: Advanced analytics and predictive algorithms
-- 🔢 **Numerical Analysis**: High-precision computational methods
-- 📈 **Optimization Theory**: Linear/Non-linear programming solutions
-- 🌊 **Signal Processing**: Fourier transforms and digital signal analysis
-- 🎲 **Probability Theory**: Monte Carlo simulations and stochastic models
-- 🧠 **Machine Learning**: Mathematical foundations of AI algorithms
-
-**Engineering Philosophy:**
-```mathematics
-f(innovation) = ∫[mathematics + engineering + creativity] dx
-where innovation → ∞ as creativity approaches optimal solutions
-```
-
-</td>
-<td width="45%">
-
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
 
-### 🔬 Research & Development
+## 🧑‍💻 About Me
 
-<div align="center">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+Software Engineer passionate about creating elegant solutions to complex problems. I specialize in full-stack development with a strong foundation in mathematics, bringing analytical thinking and precision to every project I build.
+
+- 🔭 Currently working on **Enterprise Web Applications**
+- 🌱 Learning **Cloud Native Technologies** and **System Design**
+- 👯 Looking to collaborate on **Open Source Projects**
+- ⚡ Fun fact: I solve complex algorithms for fun!
 
 ```typescript
-class MathematicalEngineer {
-  private expertise = {
-    algorithms: ["Dijkstra", "FFT", "Genetic"],
-    mathematics: ["Calculus", "LinearAlgebra", "Statistics"],
-    domains: ["ML", "Optimization", "NumericalMethods"]
-  };
-  
-  solve(problem: ComplexProblem): Solution {
-    return this.mathematics
-      .combine(this.engineering)
-      .optimize(this.creativity);
-  }
-}
-
-const engineer = new MathematicalEngineer();
-// Transforming equations into elegant code ∞
+const chamath = {
+  role: "Software Engineer",
+  location: "Colombo, Sri Lanka 🇱🇰",
+  experience: "Enterprise & Startup Development",
+  passion: ["Clean Code", "System Design", "Innovation"],
+  currentFocus: "Building scalable web applications",
+  philosophy: "Code is poetry written for machines and humans alike"
+};
 ```
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
 </div>
 
+## 🛠️ Tech Stack
+
+### **Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### **Database**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+## 📊 GitHub Analytics
+
 <div align="center">
-<img src="https://img.shields.io/badge/Research%20Papers-Published-00d9ff?style=for-the-badge&logo=academia&logoColor=white&labelColor=0f0f23" />
-<img src="https://img.shields.io/badge/Mathematical%20Models-Implemented-ff006e?style=for-the-badge&logo=function&logoColor=white&labelColor=0f0f23" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamathdilshanc&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-</td>
-</tr>
-</table>
+## 🚀 Featured Projects
 
+### 🏪 **Enterprise POS System**
+> Modern point-of-sale solution with real-time inventory management
+- **Tech Stack:** React, Node.js, PostgreSQL, Redis
+- **Features:** Real-time analytics, multi-store support, advanced reporting
+- **Impact:** Reduced transaction time by 40% for retail clients
 
-## 🔬 Mathematical Toolkit & Technologies
+### 📊 **Analytics Dashboard Platform**
+> Comprehensive data visualization and business intelligence tool
+- **Tech Stack:** Next.js, Python, FastAPI, MongoDB
+- **Features:** Interactive dashboards, automated reporting, ML-powered insights
+- **Impact:** Enabled data-driven decisions for 50+ businesses
 
-<div align="center">
+### 🔐 **Secure Authentication Service**
+> OAuth 2.0 compliant authentication microservice
+- **Tech Stack:** Spring Boot, JWT, Docker, Kubernetes
+- **Features:** Multi-factor auth, SSO integration, rate limiting
+- **Impact:** Secured applications serving 10K+ daily active users
 
-### **Mathematical Computing Stack**
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120" />
-</div>
+## 🏆 Achievements & Recognition
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=python,r,matlab&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/NumPy-Scientific-013243?style=for-the-badge&logo=numpy&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/SciPy-Mathematics-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=java,cpp,julia&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/Pandas-Analytics-150458?style=for-the-badge&logo=pandas&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Matplotlib-Visualization-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/Apache%20Spark-Analytics-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Hadoop-BigData-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white" />
-</td>
-</tr>
-</table>
+- 🥇 **Hackathon Winner** - National Innovation Challenge 2024
+- 📜 **AWS Certified** - Solutions Architect Associate
+- 🎯 **Code Quality Leader** - Maintained 95%+ test coverage across projects
+- 🌟 **Open Source Contributor** - 50+ contributions to popular repositories
+- 📈 **Performance Optimization Expert** - Improved application performance by 60% on average
 
-### **Enterprise Engineering**
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="120" />
-</div>
-<img src="https://skillicons.dev/icons?i=spring,react,nodejs,typescript,docker,kubernetes,aws,azure&theme=dark" />
+## 📚 Current Learning Journey
 
-### **Mathematical Modeling Tools**
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="120" />
-</div>
+```javascript
+const currentlyLearning = {
+  architecture: ["Microservices", "Event-Driven Design"],
+  technologies: ["Go", "Rust", "GraphQL"],
+  cloud: ["Serverless Computing", "Container Orchestration"],
+  ai: ["Machine Learning Integration", "AI-Powered Applications"]
+};
 
-<img src="https://img.shields.io/badge/Wolfram%20Alpha-Computational-DD1100?style=for-the-badge&logo=wolframalpha&logoColor=white" />
-<img src="https://img.shields.io/badge/MATLAB-Numerical-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-<img src="https://img.shields.io/badge/R%20Studio-Statistics-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
-<img src="https://img.shields.io/badge/Octave-Computing-0790C0?style=for-the-badge&logo=octave&logoColor=white" />
-<img src="https://img.shields.io/badge/LaTeX-Documentation-008080?style=for-the-badge&logo=latex&logoColor=white" />
-
-</div>
-
-## 🌟 Mathematical Research & Publications
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="600" />
-
-### **Research Contributions**
-
-<table>
-<tr>
-<td width="50%">
-
-### 📑 **Academic Publications**
-- 🔬 **"Optimization Algorithms in Enterprise Systems"** - Journal of Applied Mathematics
-- 📊 **"Statistical Modeling for Real-time Analytics"** - IEEE Computing Society
-- 🧮 **"Machine Learning Applications in Business Intelligence"** - ACM Transactions
-- 🎯 **"Mathematical Foundations of Modern POS Systems"** - Software Engineering Review
-
-### 🏆 **Mathematical Competitions**
-- 🥇 **International Mathematical Olympiad** - Regional Finalist
-- 🥈 **Programming Competition** - Algorithm Design Category
-- 🏅 **Statistical Modeling Challenge** - Industry Innovation Award
-
-</td>
-<td width="50%">
-
-### 🔬 **Open Source Contributions**
-```mathematical
-Research_Impact = Σ(citations_i × impact_factor_i)
-Current_H_Index = 15
-Total_Citations = 247+
-Research_Areas = ["Optimization", "ML", "Statistics"]
+// Always learning, always growing 🌱
 ```
 
-### 📈 **Mathematical Projects**
-- 🧠 **Neural Network Optimization Library** - 2.3k+ stars
-- 📊 **Statistical Analysis Toolkit** - 1.8k+ downloads
-- 🔢 **Numerical Methods Package** - Active maintainer
-- 📐 **Computational Geometry Utils** - Community favorite
+## 💼 Professional Experience
 
-<div align="center">
-<img src="https://img.shields.io/badge/H--Index-15-00d9ff?style=for-the-badge&logo=academia&logoColor=white&labelColor=0f0f23" />
-<img src="https://img.shields.io/badge/Citations-247+-ff006e?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=0f0f23" />
-</div>
+**Senior Software Engineer**
+- Led development of scalable web applications serving 100K+ users
+- Architected microservices infrastructure reducing system downtime by 99.5%
+- Mentored junior developers and established code review best practices
 
-</td>
-</tr>
-</table>
+**Full-Stack Developer** 
+- Built enterprise applications using modern tech stacks
+- Implemented CI/CD pipelines improving deployment efficiency by 70%
+- Collaborated with cross-functional teams to deliver high-quality solutions
 
-</div>
-
-## 🎯 Mathematical Innovation Pipeline 2025
+## 🤝 Let's Connect!
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600" />
-
-### **Next-Generation Mathematical Computing**
-
-<table>
-<tr>
-<td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" />
-<h3>🧠 Quantum Algorithms</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/Quantum-Computing-a855f7?style=for-the-badge&logo=quantum&logoColor=white&labelColor=0f0f23" />
-</div>
-<p><strong>Shor's Algorithm Implementation</strong><br/>
-Quantum supremacy in cryptography<br/>
-<em>Qiskit • Cirq • Q# Development</em></p>
-</td>
-<td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" />
-<h3>📊 Advanced Analytics</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/Deep-Learning-ff6b35?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0f0f23" />
-</div>
-<p><strong>Transformer Architecture</strong><br/>
-Mathematical language models<br/>
-<em>GPT • BERT • Mathematical Reasoning</em></p>
-</td>
-<td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257449-16ec3c47-8599-43c8-9bfb-22982c7c9665.gif" width="100" />
-<h3>🔮 Predictive Systems</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/Time%20Series-Forecasting-00d9ff?style=for-the-badge&logo=chart-line&logoColor=white&labelColor=0f0f23" />
-</div>
-<p><strong>LSTM + Attention Models</strong><br/>
-Multi-horizon forecasting<br/>
-<em>Prophet • ARIMA-X • Neural ODEs</em></p>
-</td>
-</tr>
-</table>
-
-### **Mathematical Excellence Roadmap**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500" />
-
-<img src="https://img.shields.io/badge/PhD-Applied%20Mathematics-8338ec?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=0f0f23" />
-<img src="https://img.shields.io/badge/Research-Mathematical%20AI-00d9ff?style=for-the-badge&logo=robot&logoColor=white&labelColor=0f0f23" />
-<img src="https://img.shields.io/badge/Leadership-Math%20Tech%20Team-ff006e?style=for-the-badge&logo=users&logoColor=white&labelColor=0f0f23" />
-<img src="https://img.shields.io/badge/Innovation-Mathematical%20Patents-00f5ff?style=for-the-badge&logo=lightbulb&logoColor=white&labelColor=0f0f23" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamath-dilshan-6aa8022ab/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.chamathdilshanc.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilshanColonne123@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chamathdilshanc)
 
 </div>
 
-## 🌐 Professional Mathematical Network
+---
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-5bce14e0f4d6.gif" width="400" />
+**"Clean code always looks like it was written by someone who cares."** - *Robert C. Martin*
 
-<a href="https://www.linkedin.com/in/chamath-dilshan-6aa8022ab/">
-  <img src="https://img.shields.io/badge/LinkedIn-Mathematical%20Engineer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0f23" />
-</a>
-<a href="https://www.chamathdilshanc.com/">
-  <img src="https://img.shields.io/badge/Portfolio-Mathematical%20Solutions-00d9ff?style=for-the-badge&logo=globe&logoColor=white&labelColor=0f0f23" />
-</a>
-<a href="mailto:dilshanColonne123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Collaborate%20on%20Math-ff006e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0f23" />
-</a>
-<a href="https://github.com/chamathdilshanc">
-  <img src="https://img.shields.io/badge/GitHub-Mathematical%20Code-8338ec?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f23" />
-</a>
-
-<br><br>
-
-### **Mathematical Philosophy**
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Mathematics%20is%20not%20about%20numbers%2C%20equations%20or%20algorithms%3A%20it%20is%20about%20understanding&author=William%20Paul%20Thurston&bg_color=0f0f23&text_color=00d9ff&border_color=ff006e" />
-
-</div>
-
-
-**🚀 Transforming Mathematics into Innovation • One Algorithm at a Time**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=∀+problems+∃+mathematical+solutions;Code+%2B+Math+%3D+∞+Possibilities;Optimizing+the+world+through+algorithms" alt="Mathematical Philosophy" />
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0f23,25:1a1a2e,50:16213e,75:0f3460,100:1e1b4b&section=footer)
+⭐ **From [Chamath Dilshan](https://github.com/chamathdilshanc)** - Building the future, one commit at a time 
 
 </div>
