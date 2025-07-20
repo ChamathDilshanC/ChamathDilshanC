@@ -107,8 +107,6 @@ const chamath = {
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sansation&duration=2000&pause=1000&color=1196F7&background=60FBFF00&multiline=true&width=435&lines=%F0%9F%8F%86+Achievements+%26+Recognition)](https://git.io/typing-svg)
 
-- 🥇 **Hackathon Winner** - National Innovation Challenge 2024
-- 📜 **AWS Certified** - Solutions Architect Associate
 - 🎯 **Code Quality Leader** - Maintained 95%+ test coverage across projects
 - 🌟 **Open Source Contributor** - 50+ contributions to popular repositories
 - 📈 **Performance Optimization Expert** - Improved application performance by 60% on average
