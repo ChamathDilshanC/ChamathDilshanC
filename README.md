@@ -1,9 +1,6 @@
 <div align="center">
   
-# Hi there, I'm Chamath Dilshan 👋
-
-
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Chamath%20Dilshan&fontSize=90&color=0:667eea,100:764ba2&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20|%20Full-Stack%20Developer&descAlignY=65&descAlign=50)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=1196F7&background=60FBFF00&center=true&vCenter=true&multiline=true&width=435&lines=Hi+there%2C+I'm+Chamath+Dilshan+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 </div>
 
