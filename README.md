@@ -18,7 +18,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
 
-## 🧑‍💻 About Me
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sansation&duration=2000&pause=1000&color=1196F7&background=60FBFF00&multiline=true&width=435&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+About+Me)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -44,7 +44,7 @@ const chamath = {
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
 </div>
 
-## 🛠️ Tech Stack
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sansation&duration=2000&pause=1000&color=1196F7&background=60FBFF00&multiline=true&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack)](https://git.io/typing-svg)
 
 ### **Languages**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -79,13 +79,13 @@ const chamath = {
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## 📊 GitHub Analytics
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sansation&duration=2000&pause=1000&color=1196F7&background=60FBFF00&multiline=true&width=435&lines=%F0%9F%93%8A+GitHub+Analytics)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamathdilshanc&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🚀 Featured Projects
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sansation&duration=2000&pause=1000&color=1196F7&background=60FBFF00&multiline=true&width=435&lines=%F0%9F%9A%80+Featured+Projects)](https://git.io/typing-svg)
 
 ### 🏪 **Enterprise POS System**
 > Modern point-of-sale solution with real-time inventory management
@@ -105,7 +105,7 @@ const chamath = {
 - **Features:** Multi-factor auth, SSO integration, rate limiting
 - **Impact:** Secured applications serving 10K+ daily active users
 
-## 🏆 Achievements & Recognition
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sansation&duration=2000&pause=1000&color=1196F7&background=60FBFF00&multiline=true&width=435&lines=%F0%9F%8F%86+Achievements+%26+Recognition)](https://git.io/typing-svg)
 
 - 🥇 **Hackathon Winner** - National Innovation Challenge 2024
 - 📜 **AWS Certified** - Solutions Architect Associate
@@ -113,7 +113,7 @@ const chamath = {
 - 🌟 **Open Source Contributor** - 50+ contributions to popular repositories
 - 📈 **Performance Optimization Expert** - Improved application performance by 60% on average
 
-## 📚 Current Learning Journey
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sansation&duration=2000&pause=1000&color=1196F7&background=60FBFF00&multiline=true&width=435&lines=%F0%9F%93%9A+Current+Learning+Journey)](https://git.io/typing-svg)
 
 ```javascript
 const currentlyLearning = {
@@ -126,7 +126,7 @@ const currentlyLearning = {
 // Always learning, always growing 🌱
 ```
 
-## 💼 Professional Experience
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sansation&duration=2000&pause=1000&color=1196F7&background=60FBFF00&multiline=true&width=435&lines=%F0%9F%92%BC+Professional+Experience)](https://git.io/typing-svg)
 
 **Senior Software Engineer**
 - Led development of scalable web applications serving 100K+ users
@@ -138,7 +138,7 @@ const currentlyLearning = {
 - Implemented CI/CD pipelines improving deployment efficiency by 70%
 - Collaborated with cross-functional teams to deliver high-quality solutions
 
-## 🤝 Let's Connect!
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sansation&duration=2000&pause=1000&color=1196F7&background=60FBFF00&multiline=true&width=435&lines=%F0%9F%A4%9D+Let's+Connect!)](https://git.io/typing-svg)
 
 <div align="center">
 
