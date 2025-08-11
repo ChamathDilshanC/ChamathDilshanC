@@ -1,15 +1,18 @@
 <div align="center">
-  
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=1196F7&background=60FBFF00&center=true&vCenter=true&multiline=true&width=435&lines=Hi+there%2C+I'm+Chamath+Dilshan+%F0%9F%91%8B)](https://git.io/typing-svg)
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 </div>
 
 <div align="center">
-  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=667eea&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Software+Engineer+💻;Building+Scalable+Web+Applications+🚀;Clean+Code+%26+System+Design+Expert+⚡;Always+Learning+New+Technologies+📚)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" />
 </div>
 
 </div>
@@ -31,12 +34,12 @@ Software Engineer passionate about creating elegant solutions to complex problem
 
 ```typescript
 const chamath = {
-  role: "Software Engineer",
-  location: "Colombo, Sri Lanka 🇱🇰",
-  experience: "Enterprise & Startup Development",
-  passion: ["Clean Code", "System Design", "Innovation"],
-  currentFocus: "Building scalable web applications",
-  philosophy: "Code is poetry written for machines and humans alike"
+role: "Software Engineer",
+location: "Colombo, Sri Lanka 🇱🇰",
+experience: "Enterprise & Startup Development",
+passion: ["Clean Code", "System Design", "Innovation"],
+currentFocus: "Building scalable web applications",
+philosophy: "Code is poetry written for machines and humans alike"
 };
 ```
 
@@ -82,7 +85,7 @@ const chamath = {
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sansation&duration=2000&pause=1000&color=1196F7&background=60FBFF00&multiline=true&width=435&lines=%F0%9F%93%8A+GitHub+Analytics)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamathdilshanc&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chamathdilshanc&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sansation&duration=2000&pause=1000&color=1196F7&background=60FBFF00&multiline=true&width=435&lines=%F0%9F%9A%80+Featured+Projects)](https://git.io/typing-svg)
@@ -115,10 +118,10 @@ const chamath = {
 
 ```javascript
 const currentlyLearning = {
-  architecture: ["Microservices", "Event-Driven Design"],
-  technologies: ["Go", "Rust", "GraphQL"],
-  cloud: ["Serverless Computing", "Container Orchestration"],
-  ai: ["Machine Learning Integration", "AI-Powered Applications"]
+architecture: ["Microservices", "Event-Driven Design"],
+technologies: ["Go", "Rust", "GraphQL"],
+cloud: ["Serverless Computing", "Container Orchestration"],
+ai: ["Machine Learning Integration", "AI-Powered Applications"]
 };
 
 // Always learning, always growing 🌱
@@ -131,7 +134,7 @@ const currentlyLearning = {
 - Architected microservices infrastructure reducing system downtime by 99.5%
 - Mentored junior developers and established code review best practices
 
-**Full-Stack Developer** 
+**Full-Stack Developer**
 - Built enterprise applications using modern tech stacks
 - Implemented CI/CD pipelines improving deployment efficiency by 70%
 - Collaborated with cross-functional teams to deliver high-quality solutions
@@ -153,6 +156,6 @@ const currentlyLearning = {
 
 **"Clean code always looks like it was written by someone who cares."** - *Robert C. Martin*
 
-⭐ **From [Chamath Dilshan](https://github.com/chamathdilshanc)** - Building the future, one commit at a time 
+⭐ **From [Chamath Dilshan](https://github.com/chamathdilshanc)** - Building the future, one commit at a time
 
 </div>
