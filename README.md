@@ -88,6 +88,45 @@ philosophy: "Code is poetry written for machines and humans alike"
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamathdilshanc&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sansation&duration=2000&pause=1000&color=1196F7&background=60FBFF00&multiline=true&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Tools+%26+Languages)](https://git.io/typing-svg)
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h4>⬡ &nbsp;Languages</h4>
+      <img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,go,rust&theme=dark&perline=7" />
+    </td>
+    <td align="center" width="50%">
+      <h4>⬡ &nbsp;Frontend</h4>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,figma&theme=dark&perline=7" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h4>⬡ &nbsp;Backend & APIs</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,graphql,nginx&theme=dark&perline=6" />
+    </td>
+    <td align="center">
+      <h4>⬡ &nbsp;Databases & Cache</h4>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,firebase&theme=dark&perline=5" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h4>⬡ &nbsp;DevOps & Cloud</h4>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,githubactions,terraform,linux&theme=dark&perline=7" />
+    </td>
+    <td align="center">
+      <h4>⬡ &nbsp;Tools</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jest,webpack&theme=dark&perline=6" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sansation&duration=2000&pause=1000&color=1196F7&background=60FBFF00&multiline=true&width=435&lines=%F0%9F%9A%80+Featured+Projects)](https://git.io/typing-svg)
 
 ### 🏪 **Enterprise POS System**
